@@ -1,0 +1,28 @@
+{
+  "name": "uqs",
+  "version": "1.0.0",
+  "description": "Microscopically small query string parser/stringifier",
+  "main": "uqs.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/download/uqs.git"
+  },
+  "keywords": [
+    "1kB",
+    "querystring",
+    "parser"
+  ],
+  "author": "Stijn de Witt",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/download/uqs/issues"
+  },
+  "homepage": "https://github.com/download/uqs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
