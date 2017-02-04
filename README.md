@@ -1,4 +1,6 @@
 # uqs
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/uqs.svg)](https://greenkeeper.io/)
 Microscopically small querystring parser/stringifier
 
 [![npm](https://img.shields.io/npm/v/uqs.svg)](https://npmjs.com/package/uqs)
