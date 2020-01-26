@@ -23,6 +23,6 @@
   "homepage": "https://github.com/download/uqs#readme",
   "devDependencies": {
     "chai": "^4.0.0",
-    "mocha": "^3.1.2"
+    "mocha": "^7.0.1"
   }
 }
